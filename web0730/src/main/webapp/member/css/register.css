@@ -1,0 +1,32 @@
+
+#body_div{
+  width: 40%;
+  margin: auto;
+}
+h1{
+  text-align: center;
+}
+label{
+  display: inline-block;
+  width: 20%;
+  text-align: left;
+}
+div{
+  margin-bottom: 10px;
+}
+span{
+  display: inline-block;
+  border: 1px solid black;
+  width: 70%;
+  height: 50px;
+}
+input{
+  border: none;
+}
+.input_form{
+  width: 70%;
+  height: 40px;
+  text-align: left;
+  font-size: 25px;
+  font-weight: bolder;
+}
